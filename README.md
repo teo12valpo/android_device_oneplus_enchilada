@@ -3,6 +3,7 @@
 This device tree is used to build Android-8.1 on OnePlus6
 
 Requirements to build: 4 cores, 8GB ram.
+
 You will spend time: it depends on the hardware, it can vary from 2 to 15 hours, on my PC with Intel core i5 Mobile, 16GB ram takes 5 hours, on my VPS with Intel Xeon E6 and 20 GB of ram with SSD it takes 2 hours
 
 
