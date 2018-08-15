@@ -10,13 +10,13 @@ You will spend time: it depends on the hardware, it can vary from 2 to 15 hours,
 #### **Instructions:**
 ##### After syncing the rom you want to build, you need to download the necessary to build on OnePlus6:
 
- `git clone https://github.com/teo12valpo/android_device_oneplus_enchilada.git`
+ `git clone https://github.com/teo12valpo/android_device_oneplus_enchilada.git device/oneplus/enchilada`
 
-`git clone https://github.com/teo12valpo/android_device_oneplus_sdm845-common.git`
+`git clone https://github.com/teo12valpo/android_device_oneplus_sdm845-common.git device/oneplus/sdm845-common`
 
-`git clone https://github.com/teo12valpo/android_kernel_oneplus_sdm845.git`
+`git clone https://github.com/teo12valpo/android_kernel_oneplus_sdm845.git kernel/oneplus/sdm845`
 
-`git clone https://github.com/teo12valpo/android_vendor_oneplus_sdm845-common.git ` 
+`git clone https://github.com/teo12valpo/android_vendor_oneplus_sdm845-common.git vendor/oneplus/sdm845-common` 
 
 
 ##### This tree is for the rom that I build, for example ArrowOS, you can choose the tree according to the rom you want to do, scrolling through the branches, if there is not you will have to adapt it to the rom you have to do yourself, editing the files .mk
