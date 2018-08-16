@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow.mk
+    $(LOCAL_DIR)/xenonhd.mk
