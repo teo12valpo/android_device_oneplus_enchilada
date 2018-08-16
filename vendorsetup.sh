@@ -1,1 +1,1 @@
-add_lunch_combo enchilada_arrow-userdebug
+add_lunch_combo enchilada_xenonhd-userdebug
